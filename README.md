@@ -1,1 +1,1 @@
-# Code-Notes
+使用jupyter notebook，在学习新的编程语言时边做笔记边写代码
